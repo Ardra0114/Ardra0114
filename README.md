@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardra_s_prem
 - 👀 I’m interested in framework like Asp. Net
-- 🌱 I’m currently learning Asp. Net at luminar
+- 🌱 completed internship Asp. Net at luminar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
